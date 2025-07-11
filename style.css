@@ -13,10 +13,9 @@ body{
 .navbar{
     display: flex;
     justify-content: space-between;
+    padding: 30px 50px;
     max-width: 1140px;
-    margin: o auto;
-   padding: 30px 50px;
-   align-items: center;
+    margin: 0 auto;
 }
 
 .navbar img{
@@ -74,11 +73,12 @@ body{
    justify-content: center;
    align-items: center;
    margin-top: 60px;
+   text-align: center;
 }
 
 
 .hero-content h1{
-    font-size: 2.5rem;
+    font-size: 3rem;
     width: 50%;
     font-weight: bold;
 }
