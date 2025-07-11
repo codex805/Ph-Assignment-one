@@ -56,7 +56,7 @@ body{
 
 .hero-section::before {
     content: '';
-    background-image: url(/B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-image: url(Assets/Hero-bg.png);
     background-size: cover;
     background-position: center;
     position: absolute;
